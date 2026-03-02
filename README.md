@@ -106,5 +106,5 @@
 
 # 🚀 Notes
   ```
-  solved: 001 two sum using hash map
+  solved: 001 two sum 
   ```
