@@ -16,8 +16,8 @@
 ---
 
 ### Category 2 – Lists, Strings & Collections
-- [ ] 020 Valid Parentheses  
-- [ ] 026 Remove Duplicates from Sorted Array  
+- [X] 020 Valid Parentheses  
+- [X] 026 Remove Duplicates from Sorted Array  
 - [ ] 027 Remove Element  
 - [ ] 028 Find the Index of the First Occurrence  
 - [ ] 058 Length of Last Word  
@@ -98,7 +98,7 @@
 
 # 📈 Stats
 
-- Easy Solved: 4 / 54  
+- Easy Solved: 6 / 54  
 - Medium Solved: 0 / 10  
 - Total Solved: 0 / 64  
 
