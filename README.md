@@ -6,105 +6,98 @@
 - [X] 001 Two Sum  
 - [X] 009 Palindrome Number  
 - [X] 013 Roman to Integer  
-- [ ] 066 Plus One  
-- [ ] 169 Majority Element  
-- [ ] 217 Contains Duplicate  
-- [ ] 268 Missing Number  
-- [ ] 448 Find All Numbers Disappeared in Array  
-- [ ] 136 Single Number  
+- [X] 066 Plus One  
+- [X] 169 Majority Element  
+- [X] 217 Contains Duplicate  
+- [X] 268 Missing Number  
+- [X] 448 Find All Numbers Disappeared in Array  
+- [X] 136 Single Number  
 
 ---
 
 ### Category 2 – Lists, Strings & Collections
 - [X] 020 Valid Parentheses  
 - [X] 026 Remove Duplicates from Sorted Array  
-- [ ] 027 Remove Element  
-- [ ] 028 Find the Index of the First Occurrence  
-- [ ] 058 Length of Last Word  
-- [ ] 125 Valid Palindrome  
-- [ ] 242 Valid Anagram  
-- [ ] 344 Reverse String  
-- [ ] 387 First Unique Character in a String  
-- [ ] 412 Fizz Buzz  
-- [ ] 557 Reverse Words in a String III  
+- [X] 027 Remove Element  
+- [X] 028 Find the Index of the First Occurrence  
+- [X] 058 Length of Last Word  
+- [X] 125 Valid Palindrome  
+- [X] 242 Valid Anagram  
+- [X] 344 Reverse String  
+- [X] 387 First Unique Character in a String  
+- [X] 412 Fizz Buzz  
+- [X] 557 Reverse Words in a String III  
 
 ---
 
 ### Category 3 – Filtering, Mapping & Aggregation
-- [ ] 088 Merge Sorted Array  
-- [ ] 283 Move Zeroes  
-- [ ] 349 Intersection of Two Arrays  
-- [ ] 350 Intersection of Two Arrays II  
-- [ ] 414 Third Maximum Number  
-- [ ] 628 Maximum Product of Three Numbers  
-- [ ] 1002 Find Common Characters  
-- [ ] 121 Best Time to Buy and Sell Stock  
-- [ ] 070 Climbing Stairs  
+- [X] 088 Merge Sorted Array  
+- [X] 283 Move Zeroes  
+- [X] 349 Intersection of Two Arrays  
+- [X] 350 Intersection of Two Arrays II  
+- [X] 414 Third Maximum Number  
+- [X] 628 Maximum Product of Three Numbers  
+- [X] 1002 Find Common Characters  
+- [X] 121 Best Time to Buy and Sell Stock  
+- [X] 070 Climbing Stairs  
 
 ---
 
 ### Category 4 – State Logic & Simulation
 - [X] 014 Longest Common Prefix  
-- [ ] 118 Pascal’s Triangle  
-- [ ] 119 Pascal’s Triangle II  
-- [ ] 190 Reverse Bits  
-- [ ] 191 Number of 1 Bits  
-- [ ] 202 Happy Number  
-- [ ] 231 Power of Two  
-- [ ] 326 Power of Three  
-- [ ] 342 Power of Four  
-- [ ] 401 Binary Watch  
+- [X] 118 Pascal's Triangle  
+- [X] 119 Pascal's Triangle II  
+- [X] 190 Reverse Bits  
+- [X] 191 Number of 1 Bits  
+- [X] 202 Happy Number  
+- [X] 231 Power of Two  
+- [X] 326 Power of Three  
+- [X] 342 Power of Four  
+- [X] 401 Binary Watch  
 
 ---
 
 ### Category 5 – Performance Conscious Logic
-- [ ] 035 Search Insert Position  
-- [ ] 069 Sqrt(x)  
-- [ ] 167 Two Sum II  
-- [ ] 189 Rotate Array  
-- [ ] 206 Reverse Linked List  
-- [ ] 232 Implement Queue using Stacks  
-- [ ] 234 Palindrome Linked List  
-- [ ] 704 Binary Search  
-- [ ] 905 Sort Array By Parity  
+- [X] 035 Search Insert Position  
+- [X] 069 Sqrt(x)  
+- [X] 167 Two Sum II  
+- [X] 189 Rotate Array  
+- [X] 206 Reverse Linked List  
+- [X] 232 Implement Queue using Stacks  
+- [X] 234 Palindrome Linked List  
+- [X] 704 Binary Search  
+- [X] 905 Sort Array By Parity  
 
 ---
 
 ### Category 6 – Input Validation & User Logic
-- [ ] 383 Ransom Note  
-- [ ] 392 Is Subsequence  
-- [ ] 434 Number of Segments in a String  
-- [ ] 520 Detect Capital  
-- [ ] 709 To Lower Case  
-- [ ] 771 Jewels and Stones  
+- [X] 383 Ransom Note  
+- [X] 392 Is Subsequence  
+- [X] 434 Number of Segments in a String  
+- [X] 520 Detect Capital  
+- [X] 709 To Lower Case  
+- [X] 771 Jewels and Stones  
 
 ---
 
 ## 🟡 Medium Problems
 
 ### Category 7 – Intermediate Practice
-- [ ] 002 Add Two Numbers  
-- [ ] 003 Longest Substring Without Repeating Characters  
-- [ ] 005 Longest Palindromic Substring  
-- [ ] 015 3Sum  
-- [ ] 049 Group Anagrams  
-- [ ] 056 Merge Intervals  
-- [ ] 075 Sort Colors  
-- [ ] 151 Reverse Words in a String  
-- [ ] 238 Product of Array Except Self  
-- [ ] 347 Top K Frequent Elements  
+- [X] 002 Add Two Numbers  
+- [X] 003 Longest Substring Without Repeating Characters  
+- [X] 005 Longest Palindromic Substring  
+- [X] 015 3Sum  
+- [X] 049 Group Anagrams  
+- [X] 056 Merge Intervals  
+- [X] 075 Sort Colors  
+- [X] 151 Reverse Words in a String  
+- [X] 238 Product of Array Except Self  
+- [X] 347 Top K Frequent Elements  
 
 ---
 
 # 📈 Stats
 
-- Easy Solved: 6 / 54  
-- Medium Solved: 0 / 10  
-- Total Solved: 0 / 64  
-
----
-
-# 🚀 Notes
-  ```
-  solved: 001 two sum 
-  ```
+- Easy Solved: 54 / 54  
+- Medium Solved: 10 / 10  
+- Total Solved: 64 / 64  
